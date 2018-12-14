@@ -1,0 +1,22 @@
+{
+  "name": "servidor-web-de-archivos",
+  "version": "1.0.0",
+  "description": "Servidor web para que mi socio me muestre el progreso de su trabajo",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mateh-Bart/servidor-web-de-archivos.git"
+  },
+  "author": "mateh elismar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mateh-Bart/servidor-web-de-archivos/issues"
+  },
+  "homepage": "https://github.com/Mateh-Bart/servidor-web-de-archivos#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
